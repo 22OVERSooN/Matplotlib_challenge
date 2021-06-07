@@ -10,3 +10,4 @@ The difficult part:
 The easy part:
 
 1. It is easy to use "pyplot" and "Pandas" to make the same chart.
+2. Finally, it is easy to write the function in the scatter plot, but it is difficult to write all the lines. It is easy to make the template for all the lines needed.
